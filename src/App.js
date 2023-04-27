@@ -1,6 +1,6 @@
-import LogInPartial from './components/partials/LogInPartial';
+
 import './App.css';
-import './components/partials/LogInPartial';
+import LogIn from './components/views/LogIn';
 
 function App() {
   return (
