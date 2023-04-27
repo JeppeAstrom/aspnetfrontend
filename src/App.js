@@ -1,11 +1,13 @@
-import LogIn from './components/views/LogIn';
+import LogInPartial from './components/partials/LogInPartial';
 import './App.css';
 
 function App() {
   return (
-  <>
- <LoginPartial/>
-  </>
+  <div>
+ <LogInPartial/>
+  </div>
+
+ 
   );
 }
 
